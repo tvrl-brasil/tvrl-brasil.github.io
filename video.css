@@ -1,0 +1,51 @@
+.videobann {
+	background-color: #C00;
+	position: absolute;
+	height: 50px;
+	width: 1000px;
+	background-image: url(imagens/videobackgfrounds/videoban.gif);
+}
+.videoblacki {
+	background-color: #000;
+	position: absolute;
+	height: 423px;
+	width: 640px;
+	top: 100px;
+}
+
+
+.videotext {
+	position: absolute;
+	top: 598px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: 600;
+	font-size: x-large;
+	width: 640px;
+}
+.videodesc {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: medium;
+	font-weight: 500;
+	position: absolute;
+	top: 650px;
+	width: 640px;
+}
+.videoselect {
+	background-color: #00C;
+	position: absolute;
+	height: 700px;
+	width: 325px;
+	top: 100px;
+	left: 684px;
+}
+.uruguai {
+	background-color: #999;
+	position: absolute;
+	height: 1px;
+	width: 1000px;
+	top: 810px;
+}
+.backgorunbd {
+	position: absolute;
+	top: 812px;
+}

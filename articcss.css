@@ -1,0 +1,87 @@
+.tvrllogo {
+	position: absolute;
+	left: 71px;
+	top: 43px;
+}
+.blocklogo {
+	background-color: #33CC33;
+	position: absolute;
+	top: 37px;
+	width: 170px;
+	height: 59px;
+	left: 64px;
+}
+.blockselect {
+	background-color: #33CC33;
+	position: absolute;
+	visibility: visible;
+	height: 20px;
+	width: 1008px;
+	top: 96px;
+	text-transform: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.title {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #000000;
+	position: absolute;
+	top: 160px;
+	font-size: xx-large;
+	left: 285px;
+}
+.blocktitle {
+	background-color: #333399;
+	position: absolute;
+	height: 25px;
+	width: 1008px;
+	top: 120px;
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	font-size: x-large;
+	text-align: center;
+	letter-spacing: 1px;
+	border-top-style: none;
+	padding-top: 6px;
+}
+.desc {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #333333;
+	position: absolute;
+	left: 410px;
+	top: 200px;
+}
+.pictureator {
+	background-color: #0033CC;
+	background-image: url(rodamold.gif);
+	position: absolute;
+	width: 100px;
+	height: 150px;
+	left: 910px;
+	top: 220px;
+
+	background-repeat: no-repeat;
+}
+.picturedesc {
+	font-family: "Lucida Console";
+	color: #999999;
+	position: absolute;
+	left: 908px;
+	top: 380px;
+	font-size: x-small;
+}
+.textpre {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	position: absolute;
+	top: 222px;
+	width: 900px;
+	font-size: 20px;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	position: absolute;
+	top: 400px;
+}

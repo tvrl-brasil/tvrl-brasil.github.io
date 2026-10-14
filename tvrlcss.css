@@ -1,0 +1,522 @@
+.tvrllogo {
+	position: absolute;
+	left: 71px;
+	top: 43px;
+}
+.blocklogo {
+	background-color: #33CC33;
+	position: absolute;
+	top: 37px;
+	width: 170px;
+	height: 59px;
+	left: 64px;
+}
+.blockselect {
+	background-color: #33CC33;
+	position: absolute;
+	visibility: visible;
+	height: 20px;
+	width: 1000px;
+	top: 80px;
+	text-transform: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	left: 8px;
+}
+.newsblock {
+	background-color: #000066;
+	width: 350px;
+	height: 300px;
+	position: absolute;
+	top: 150px;
+	bottom: 100px;
+	background-image: url(imagens/indexbackgrounds/theneus.gif);
+}
+.news1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 55px;
+	color: #FFFFFF;
+}
+.news2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	top: 100px;
+	color: #FFFFFF;
+	position: absolute;
+}
+.news3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	position: absolute;
+	top: 141px;
+}
+.news4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	position: absolute;
+	top: 190px;
+}
+.news5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	top: 220px;
+	position: absolute;
+}
+.news6 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	height: auto;
+	position: absolute;
+	top: 273px;
+	left: 49px;
+}
+.mainblock {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #00FFCC;
+	position: absolute;
+	height: 300px;
+	width: 635px;
+	top: 150px;
+	left: 365px;
+	background-image: url(imagens/indexbackgrounds/johnpork.gif);
+}
+.maintext {
+	font-family: Tahoma;
+	color: #FFFFFF;
+	list-style-type: disc;
+	position: absolute;
+	top: 170px;
+}
+.videosblock {
+	background-color: #999999;
+	position: absolute;
+	height: 30px;
+	width: 350px;
+	top: 460px;
+	background-image: url(imagens/indexbackgrounds/videosheader.gif);
+}
+.thevideos {
+	background-color: #FF00FF;
+	height: 200px;
+	width: 350px;
+	top: 35px;
+	position: absolute;
+	background-image: url(imagens/indexbackgrounds/videos-boxman.gif);
+}
+.thumb1 {
+	color: #3234CC;
+	background-color: #3234CC;
+	height: 80px;
+	width: 107px;
+	background-image: url(imagens/thumbnails/thumb1.gif);
+	left: 14px;
+	position: absolute;
+	top: 10px;
+}
+.textvid1 {
+	font-family: Tahoma;
+	color: #FFFFFF;
+	position: absolute;
+	width: 123px;
+	left: 126px;
+	top: 12px;
+}
+.subtextvid1 {
+	color: #666666;
+	position: absolute;
+	left: 2px;
+	top: -1px;
+}
+.thumb2 {
+	color: #3234CC;
+	background-color: #3234CC;
+	background-image: url(imagens/thumbnails/thumb2.gif);
+	position: absolute;
+	width: 107px;
+	height: 80px;
+	left: 14px;
+	top: 110px;
+}
+.textvid2 {
+	font-family: Tahoma;
+	color: #FFFFFF;
+	position: absolute;
+	left: 126px;
+	top: 10px;
+	height: 18px;
+	width: 108px;
+}
+.subtextvid2 {
+	font-family: Tahoma;
+	color: #666666;
+	position: absolute;
+	height: 22px;
+	width: 197px;
+	left: 0px;
+	top: -1px;
+}
+.underblockheader {
+	color: #FF0099;
+	background-color: #FF3399;
+	position: absolute;
+	height: 30px;
+	width: 635px;
+	top: 460px;
+	left: 365px;
+	background-image: url(imagens/indexbackgrounds/underheader%20copy.gif);
+}
+.yeahunderblock {
+	background-color: #99FF00;
+	position: absolute;
+	height: 750px;
+	width: 658px;
+	top: 35px;
+	background-image: url(listeningtopaintingwhispers%20copy.GIF);
+}
+.newsheader {
+	color: #0033CC;
+	background-color: #0099CC;
+	position: absolute;
+	height: 50px;
+	width: 800px;
+	top: 130px;
+	background-image: url(newsheader.gif);
+}
+.pictureman {
+	background-color: #FF9900;
+	height: 200px;
+	width: 200px;
+	top: 130px;
+	position: absolute;
+	left: 816px;
+	background-image: url(person.gif);
+}
+.author {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 210px;
+}
+.title {
+	font-family: "Lucida Console";
+	font-weight: bold;
+	color: #000000;
+	text-decoration: blink;
+	top: 180px;
+	position: absolute;
+	font-size: 24px;
+	width: 800px;
+	background-color: #999999;
+	height: 139px;
+}
+.subtitle {
+	position: absolute;
+	top: 115px;
+	left: 185px;
+	width: 417px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+.line1 {
+	font-family: "Comic Sans MS";
+	font-style: italic;
+	position: absolute;
+	top: 320px;
+	width: 758px;
+}
+.blogblock {
+	position: absolute;
+	height: 170px;
+	width: 635px;
+	top: 35px;
+	background-image: url(imagens/indexbackgrounds/blog-header_01.gif);
+}
+.e-sport {
+	position: absolute;
+	height: 145px;
+	width: 635px;
+	top: 210px;
+	background-image: url(imagens/indexbackgrounds/blog-header_02.gif);
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	font-size: x-small;
+}
+.cultura {
+	position: absolute;
+	height: 99px;
+	width: 635px;
+	top: 360px;
+	background-image: url(imagens/indexbackgrounds/blog-header_03.gif);
+	
+}
+.telly {
+	position: absolute;
+	height: 156px;
+	width: 250px;
+	top: 466px;
+	background-image: url(imagens/indexbackgrounds/blog-header_04.gif);
+}
+.radio {
+	background-image: url(imagens/indexbackgrounds/blog-header_05.gif);
+	width: 375px;
+	height: 156px;
+	position: absolute;
+	left: 260px;
+	top: 466px;
+}
+.blogtext {
+	font-family: "Lucida Console";
+	color: #333333;
+	padding-top: 40px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-image: url(imagens/indexbackgrounds/blog-header_01.gif);
+}
+.thumbesp1 {
+	background-image: url(imagens/thumbnails/esports-thumb4.gif);
+	position: absolute;
+	width: 85px;
+	height: 56px;
+	top: 57px;
+	left: 57px;
+}
+.desceps1 {
+	font-family: "Lucida Console";
+}
+.descesp1 {
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	position: absolute;
+	top: 80px;
+	left: 148px;
+	width: 156px;
+	height: 38px;
+	font-size: x-small;
+}
+.titlesp1 {
+	font-family: "Lucida Console";
+	color: #333333;
+	position: absolute;
+	top: 68px;
+	left: 147px;
+	font-size: x-small;
+}
+.thumbesp2 {
+	background-image: url(imagens/thumbnails/esports-thumb2.gif);
+	position: absolute;
+	height: 56px;
+	width: 85px;
+	left: 312px;
+	top: 56px;
+}
+.titlesp2 {
+	font-family: "Lucida Console";
+	color: #333333;
+	font-size: x-small;
+	position: absolute;
+	top: 68px;
+	left: 406px;
+}
+.descesp2 {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #FFFFFF;
+	position: absolute;
+	left: 405px;
+	top: 82px;
+	width: 168px;
+}
+.thumbesp3 {
+	background-image: url(esports-thumb3.gif);
+	position: absolute;
+	height: 56px;
+	width: 85px;
+	top: 128px;
+	left: 56px;
+}
+.titlesp3 {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #333333;
+	position: absolute;
+	left: 147px;
+	top: 138px;
+}
+
+.descesp3 {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #FFFFFF;
+	position: absolute;
+	left: 147px;
+	top: 151px;
+	width: 167px;
+	height: 37px;
+}
+.thumbesp4 {
+	background-color: #0066FF;
+	background-image: url(esports-thumb4.gif);
+	position: absolute;
+	left: 313px;
+	top: 129px;
+	width: 85px;
+	height: 56px;
+}
+.titlesp4 {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #333333;
+	position: absolute;
+	left: 403px;
+	top: 142px;
+}
+.descesp4 {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #FFFFFF;
+	position: absolute;
+	left: 404px;
+	top: 155px;
+	width: 206px;
+}
+.culthumb1 {
+	background-image: url(imagens/thumbnails/culthumb1.gif);
+	position: absolute;
+	height: 56px;
+	width: 58px;
+	left: 57px;
+	top: 29px;
+	color: #009999;
+}
+.titlecult1 {
+	font-family: "Lucida Console";
+	color: #333333;
+	position: absolute;
+	left: 125px;
+	top: 40px;
+	font-size: small;
+}
+.descult1 {
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	position: absolute;
+	font-size: x-small;
+	width: 171px;
+	left: 125px;
+	top: 53px;
+}
+.culthumb2 {
+	background-color: #99FF99;
+	background-image: url(imagens/thumbnails/culthumb2.gif);
+	position: absolute;
+	height: 57px;
+	width: 58px;
+	left: 340px;
+	top: 28px;
+}
+.titlecult2 {
+	font-family: "Lucida Console";
+	font-size: small;
+	color: #333333;
+	position: absolute;
+	top: 40px;
+	left: 410px;
+}
+.descult2 {
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	position: absolute;
+	left: 410px;
+	top: 53px;
+	font-size: x-small;
+	width: 201px;
+}
+.escolha {
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	position: absolute;
+	left: 25px;
+	top: 55px;
+	font-size: medium;
+	width: 195px;
+}
+.horario {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #FFFFFF;
+	position: absolute;
+	left: 25px;
+	top: 100px;
+}
+.programacao {
+	font-family: "Lucida Console";
+	color: #FFFFFF;
+	position: absolute;
+	font-size: x-small;
+	top: 110px;
+}
+.ad {
+	background-color: #0066CC;
+	background-image: url(imagens/ads/ad1.gif);
+	position: absolute;
+	height: 100px;
+	width: 350px;
+	top: 705px;
+}
+.index {
+	background-color: #993399;
+	height: 267px;
+	width: 350px;
+	position: absolute;
+	top: 815px;
+	background-image: url(imagens/indexbackgrounds/index.gif);
+}
+.more {
+	background-color: #99CC00;
+	background-image: url(imagens/indexbackgrounds/more.gif);
+	position: absolute;
+	width: 1000px;
+	height: 100px;
+	top: 1089px;
+
+
+}
+.thumbmore1 {
+	background-image: url(imagens/thumbnails/rodamold.gif);
+	position: absolute;
+	height: 58px;
+	width: 58px;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	left: 113px;
+	top: 28px;
+}
+.titlemore1 {
+	font-family: "Lucida Console";
+	color: #333333;
+	position: absolute;
+	left: 180px;
+	top: 40px;
+	font-size: small;
+}
+.descmore1 {
+	font-family: "Lucida Console";
+	font-size: x-small;
+	color: #FFFFFF;
+	position: absolute;
+	left: 180px;
+	top: 60px;
+	width: 230px;
+	height: 10px;
+}
+.omarad {
+	background-image: url(imagens/ads/elie.gif);
+	position: absolute;
+	height: 100px;
+	width: 1000px;
+	top: 120px;
+}
+.classer {
+	position: absolute;
+	top: 80px;
+}
