@@ -1,23 +1,16 @@
 .tvrllogo {
 	position: absolute;
-	left: 71px;
-	top: 43px;
+	left: 70px;
+	top: 25px;
 }
-.blocklogo {
-	background-color: #33CC33;
-	position: absolute;
-	top: 37px;
-	width: 170px;
-	height: 59px;
-	left: 64px;
-}
+
 .blockselect {
-	background-color: #33CC33;
+	background-color: #339;
 	position: absolute;
 	visibility: visible;
-	height: 20px;
-	width: 1008px;
-	top: 96px;
+	height: 90px;
+	width: 1000px;
+	top: 26px;
 	text-transform: none;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
@@ -33,7 +26,7 @@
 	background-color: #333399;
 	position: absolute;
 	height: 25px;
-	width: 1008px;
+	width: 1000px;
 	top: 120px;
 	font-family: "Lucida Console";
 	color: #FFFFFF;
@@ -53,22 +46,22 @@
 }
 .pictureator {
 	background-color: #0033CC;
-	background-image: url(rodamold.gif);
+	background-image: url(imagens/thumbnails/rodamold.gif);
 	position: absolute;
 	width: 100px;
 	height: 150px;
-	left: 910px;
+	left: 907px;
 	top: 220px;
-
 	background-repeat: no-repeat;
 }
 .picturedesc {
 	font-family: "Lucida Console";
 	color: #999999;
 	position: absolute;
-	left: 908px;
+	left: 906px;
 	top: 380px;
 	font-size: x-small;
+	width: 103px;
 }
 .textpre {
 	font-family: Arial, Helvetica, sans-serif;
@@ -84,4 +77,5 @@
 	color: #000000;
 	position: absolute;
 	top: 400px;
+	width: 1000px;
 }
